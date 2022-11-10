@@ -1,0 +1,43 @@
+.pagination-wrap .pagination-title {
+	font-size: 20px;
+	padding-top: 10px;
+	margin-bottom: 7px;
+}
+
+.pagination-wrap .pagination-item {
+	background: #edefeb;
+	width: 32px;
+	height: 16px;
+	text-align: center;
+	margin-right: 3px;
+    margin-bottom: 3px;
+	border: 1px solid #caccc9;
+	padding: 3px auto;
+	
+}
+
+.pagination-wrap .pagination-item a {
+	color: #434542;
+	border-bottom: none;
+}
+
+.pagination-wrap-item {
+	display: flex;
+	flex-wrap: wrap;
+	color: #434542;
+	font-size: 11px;
+	
+}
+
+
+@media (max-width: 1200px) {
+    
+}
+@media (max-width: 992px) {
+    
+
+}
+@media (max-width: 768px) {
+    
+
+}

@@ -1,0 +1,24 @@
+.title-news {
+	font-size: 28px;
+}
+
+.news-wrap {
+	margin-top: 24px;
+	margin-bottom: 15px;
+}
+
+.footer_news {
+	margin-top: 14px;
+}
+
+@media (max-width: 1200px) {
+    
+}
+@media (max-width: 992px) {
+    
+
+}
+@media (max-width: 768px) {
+    
+
+}

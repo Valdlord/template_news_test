@@ -1,0 +1,31 @@
+@import "normalize.css";
+@import "base.css";
+@import "container.css";
+@import "section-1.css";
+@import "pagination.css";
+@import "newsfull.css";
+
+
+
+.landing-page {
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+    flex-direction: column;
+}
+
+@media (max-width: 1200px) {
+    .landing-page {
+        padding-top: 80px;
+}
+}
+@media (max-width: 992px) {
+    .landing-page {
+        padding-top: 72px;
+}
+}
+@media (max-width: 768px) {
+    .landing-page {
+        padding-top: 56px;
+}
+}
